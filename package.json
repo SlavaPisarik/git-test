@@ -1,0 +1,27 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "A fictional campsites review websites",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavaPisarik/git-test.git"
+  },
+  "keywords": [],
+  "author": "Slava Pisarik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlavaPisarik/git-test/issues"
+  },
+  "homepage": "https://github.com/SlavaPisarik/git-test#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "bootstrap": "^5.2.3"
+  }
+}
